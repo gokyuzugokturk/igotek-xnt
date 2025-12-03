@@ -5,7 +5,7 @@ All NVIDIA graphic cards are supported !
 *****
 
 HIVEOS: WALLET CREATION  
-image 001
+https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/001.png
 
 Get wallet address from https://safetrade.com
 Set wallet address at the flight sheet !
@@ -13,12 +13,12 @@ Set wallet address at the flight sheet !
 *****
 
 HIVEOS: FLIGHT SHEET  
-image 002
+https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/002.png
 
 *****
 
 HIVEOS: FLIGHT SHEET  
-image 003
+https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/003.png
 
 Wallet and worker template: %WAL%  
 
