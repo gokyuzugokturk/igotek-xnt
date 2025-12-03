@@ -23,7 +23,7 @@ HIVEOS: FLIGHT SHEET
 
 Wallet and worker template: %WAL%  
 
-Installation URL: https://github.com/gokyuzugokturk/igotek-xnt/releases/download/v1.0/xnt-1.0.tar.gz  
+Installation URL: https://github.com/gokyuzugokturk/igotek-xnt-miner/releases/download/v1.0/xnt-1.0.tar.gz  
 
 Pool URL: stratum+ssl://eu.poolhub.io:30111
 
