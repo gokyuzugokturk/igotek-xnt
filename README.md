@@ -7,7 +7,8 @@ All NVIDIA graphic cards are supported !
 HIVEOS: WALLET CREATION  
 ![wallet](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/001.png)
 
-Get wallet address from https://safetrade.com
+Get wallet address from https://safetrade.com  
+Dont enter your wallet address here.  
 Set wallet address at the flight sheet !
 
 *****
