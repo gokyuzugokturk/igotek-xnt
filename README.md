@@ -2,6 +2,8 @@ XNT Neptune Privacy Miner v1.0 for HIVEOS
 
 All NVIDIA graphic cards are supported !
 
+Video Tutorial: https://youtu.be/rpcNwmAC7H8
+
 *****
 
 HIVEOS: WALLET CREATION  
