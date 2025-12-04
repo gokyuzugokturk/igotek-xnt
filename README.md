@@ -39,7 +39,13 @@ Dont use NPT wallet address. Neptune Cash (NPT)
 
 *****
 
+BENCHMARKS
+
+RTX3090  
 ![RTX3090](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/004.png)
+
+RTX3080Ti  
+![RTX3080Ti](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/005.png)
 
 *****
 
