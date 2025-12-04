@@ -39,6 +39,10 @@ Dont use NPT wallet address. Neptune Cash (NPT)
 
 *****
 
+![RTX3090](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/004.png)
+
+*****
+
 Dev + Pool Fee: %5
 
 *****
