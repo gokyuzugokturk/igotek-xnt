@@ -41,6 +41,9 @@ Dont use NPT wallet address. Neptune Cash (NPT)
 
 BENCHMARKS
 
+RTX5090: 40MH/s  
+RTX4090: 31MH/s
+
 RTX3090  
 ![RTX3090](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/004.png)
 
