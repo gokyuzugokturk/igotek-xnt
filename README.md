@@ -81,7 +81,8 @@ Error Reporting:
 
 Just lower Lock Core Clock value to lower if you see this error.  
 You must enter 15 value lower.  
-Example: set 1695 instead of 1710
+Example: set 1695 instead of 1710  
+Example: set 1680 instead of 1695
 ![error](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/error.png)
 
 *****
