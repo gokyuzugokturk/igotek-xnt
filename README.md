@@ -41,8 +41,8 @@ Dont use NPT wallet address. Neptune Cash (NPT)
 
 BENCHMARKS
 
-RTX5090: 40MH/s  
-RTX4090: 31MH/s
+RTX5090: 40MH/s NO OC, NO PL LIMIT  
+RTX4090: 31MH/s NO OC, NO PL LIMIT
 
 RTX3090 > 14.10MH/s @ 290W  
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
@@ -59,7 +59,7 @@ Core Offset 150, Core Clock 1710, Lock Memory Clock 5000
 You can set overclock settings depends on your graphic card.
 
 User Reports  
-RTX4090: 31MH/s @ 450PL, 15.2MH/s @ 400PL, 14.8MH/s @ 370PL, 12MH/s @ 350PL
+RTX4090: 31MH/s @ 450PL NO OC, 15.2MH/s @ 400PL NO OC, 14.8MH/s @ 370PL NO OC, 12MH/s @ 350PL NO OC
 
 *****
 
