@@ -45,7 +45,6 @@ You can set overclock settings depends on your graphic card.
 Just try this ones as start and find the proper settings for your graphic cards.
 
 RTX5090: 40MH/s NO OC, NO PL LIMIT  
-RTX4090: 31MH/s NO OC, NO PL LIMIT   
 RTX4090: 31MH/s @ 450PL NO OC, 15.2MH/s @ 400PL NO OC, 14.8MH/s @ 370PL NO OC, 12MH/s @ 350PL NO OC
 
 RTX3090 > 13.85MH/s @ 300W  
