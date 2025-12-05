@@ -44,7 +44,7 @@ BENCHMARKS
 RTX5090: 40MH/s  
 RTX4090: 31MH/s
 
-RTX3090 > 14.10MH/s @ 270W  
+RTX3090 > 14.10MH/s @ 290W  
 Core Offset 200, Core Clock 1740, Lock Memory Clock 5000  
 ![RTX3090](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/004.png)
 
