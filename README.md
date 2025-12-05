@@ -48,7 +48,7 @@ RTX3090
 Core Offset 200  
 Core Clock 1740  
 Lock Memory Clock 5000  
-This is for minimum power consumption (270W) & the highest hashrate (14.00MH/s).  
+This is for minimum power consumption (270W) & the highest hashrate (14.10MH/s).  
 You can try and find the optimal overclock settings for your graphic cards.
 ![RTX3090](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/004.png)
 
