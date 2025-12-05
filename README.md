@@ -45,15 +45,15 @@ RTX5090: 40MH/s
 RTX4090: 31MH/s
 
 RTX3090 > 14.10MH/s @ 290W  
-Core Offset 200, Core Clock 1710, Lock Memory Clock 5000  
+Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
 ![RTX3090](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/004.png)
 
 RTX3080Ti > 13.75MH/s @ 270W  
-Core Offset 200, Core Clock 1710, Lock Memory Clock 5000  
+Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
 ![RTX3080Ti](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/005.png)
 
 RTX3080 > 10.45MH/s @ 235W  
-Core Offset 200, Core Clock 1710, Lock Memory Clock 5000  
+Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
 ![RTX3080](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/006.png)
 
 You can set overclock settings depends on your graphic card.
