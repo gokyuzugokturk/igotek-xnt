@@ -63,6 +63,15 @@ RTX4090: 31MH/s @ 450PL NO OC, 15.2MH/s @ 400PL NO OC, 14.8MH/s @ 370PL NO OC, 1
 
 *****
 
+Error Reporting:
+
+Just lower Lock Core Clock value to lower if you see this error.  
+You must enter 15 value lower.  
+Example: set 1695 instead of 1710
+![error](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/006.png)
+
+*****
+
 Dev + Pool Fee: %10
 
 *****
