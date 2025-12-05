@@ -44,15 +44,15 @@ BENCHMARKS
 RTX5090: 40MH/s NO OC, NO PL LIMIT  
 RTX4090: 31MH/s NO OC, NO PL LIMIT
 
-RTX3090 > 14.10MH/s @ 290W  
+RTX3090 > 13.85MH/s @ 300W  
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
 ![RTX3090](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/004.png)
 
-RTX3080Ti > 13.75MH/s @ 270W  
+RTX3080Ti > 13.50MH/s @ 270W  
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
 ![RTX3080Ti](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/005.png)
 
-RTX3080 > 10.45MH/s @ 235W  
+RTX3080 > 10.30MH/s @ 235W  
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
 ![RTX3080](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/006.png)
 
