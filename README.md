@@ -1,4 +1,4 @@
-XNT Neptune Privacy Miner v1.1 for HIVEOS
+Neptune Privacy XNT Miner v1.1 for HIVEOS
 
 All NVIDIA graphic cards are supported !
 
