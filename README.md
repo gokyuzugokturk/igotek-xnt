@@ -1,3 +1,5 @@
+![XNT](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/image.png)
+
 Neptune Privacy XNT Miner v1.1 for HIVEOS
 
 All NVIDIA graphic cards are supported !
@@ -102,4 +104,8 @@ GPU Selection at the extra config: --gpu 0,1,2,3,4,5
 I m not the owner of the poolhub.io + I m not the developer of OXZD-0.7.5 + All fees goes to its developer ! The idle-time is on my hands. But you can set idle-time for your own choice ! You can edit the files, no restrictions. Just dont use the miner if you dont like it. Use it your own risk.
 
 *****
+
+![pool](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/pool_001.png)
+
+![pool](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/pool_002.png)
 
