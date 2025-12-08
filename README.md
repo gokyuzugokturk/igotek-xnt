@@ -78,6 +78,10 @@ RTXA4000 > 7.50MH/s @ 120W
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
 ![RTXA4000](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/010.png)
 
+RTX4080 > 20.80MH/s @ 290W  
+Core Offset 200, Core Clock 2655, Lock Memory Clock 5000  
+![RTXA4000](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/RTX4080.png)
+
 *****
 
 Error Reporting:
