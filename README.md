@@ -82,6 +82,10 @@ RTX4080 > 20.80MH/s @ 290W
 Core Offset 200, Core Clock 2655, Lock Memory Clock 5000  
 ![RTXA4000](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/RTX4080.png)
 
+RTX4070Ti > 16.65MH/s @ 230W  
+Core Offset 200, Core Clock 2600, Lock Memory Clock 5000  
+![RTX4070Ti](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/RTX4070Ti.webp)
+
 *****
 
 Error Reporting:
