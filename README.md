@@ -86,9 +86,13 @@ RTX4070Ti > 16.65MH/s @ 230W
 Core Offset 200, Core Clock 2600, Lock Memory Clock 5000  
 ![RTX4070Ti](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/RTX4070Ti.webp)
 
-RTX3070 > 6.10MH/s @ 230W  
+RTX3070 Laptop > 6.10MH/s @ 85W  
 Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
-![RTX3070](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/RTX3070.webp)
+![RTX3070-Laptop](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/RTX3070-Laptop.webp)
+
+RTX3080 LAptop > 7.35MH/s @ 100W  
+Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
+![RTX3070-Laptop](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/RTX3080-Laptop.webp)
 
 *****
 
