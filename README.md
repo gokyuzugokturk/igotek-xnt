@@ -86,6 +86,10 @@ RTX4070Ti > 16.65MH/s @ 230W
 Core Offset 200, Core Clock 2600, Lock Memory Clock 5000  
 ![RTX4070Ti](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/RTX4070Ti.webp)
 
+RTX3070 > 6.10MH/s @ 230W  
+Core Offset 150, Core Clock 1710, Lock Memory Clock 5000  
+![RTX3070](https://github.com/gokyuzugokturk/igotek-xnt/blob/main/img/RTX3070.webp)
+
 *****
 
 Error Reporting:
@@ -100,6 +104,10 @@ Sometimes, you can see your rig uses too lower power than usual, but the hashrat
 You must lower Lock Core Clock to a lower value (-15) and reboot the rig to fix that error.
 
 Poolhub.io url cannot be accesible at some locations. This is because your internet server provider. There are people who can access the pool by using VPN. I cannot help you about VPN usage. You need to search for using VPN over HiveOS. Just go Discord if you have any problem to access to the pool. I can check it for you. Usually, there are another problems at the rigs. Mostly, I fix the problems by updating the rig, flighsheet, overclock settings.
+
+NVIDIA OC failed  
+SET POWER LIMIT: 115.0 W [Not Supported]  
+You can see this error if you use Laptop GPUs. No problem, you can set overclocks except PL. Just dismiss the error.
 
 *****
 
